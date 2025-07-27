@@ -17,17 +17,7 @@
 </p>
 
 ---
-<details>
-<summary>📑 Table of Contents</summary>
 
-- [About Me](#✨-about-me)
-- [Achievements](#🏅-achievements)
-- [Featured Projects](#🚀-featured-projects)
-- [Skills & Tools](#🛠️-skills--tools)
-- [Interests](#🎨-interests)
-- [Connect With Me](#📫-connect-with-me)
-
-</details>
 <!-- ## ✨ About Me -->
 <div align="center">
 
