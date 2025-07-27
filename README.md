@@ -60,14 +60,14 @@
 ## 🚀 Featured Projects
 
 ### [Time Traveler’s Quest (C++, SFML)](https://github.com/Hasan-Butt/Time-Traveler-s-Quest-Game)
-⏳ Era‑Switching Puzzles – Toggle between past and present maps with a single keypress
-🔄 State Synchronization – Past actions (like placing keys) affect present‑day interactions in real time
-🎮 2D SFML Adventure – Custom graphics, animations, and sound effects drive a rich time‑travel narrative
+> ⏳ Era‑Switching Puzzles – Toggle between past and present maps with a single keypress  
+> 🔄 State Synchronization – Past actions (like placing keys) affect present‑day interactions in real time  
+> 🎮 2D SFML Adventure – Custom graphics, animations, and sound effects drive a rich time‑travel narrative  
 
 ### [Cricket Scoring & Auction System (C++, Qt)](https://github.com/Hasan-Butt/Cricket-Scoring-App)
-🏏 Match Management – Create matches with team names, players, overs, toss, and openers
-📊 Live Scoring & Stats – Real‑time run/wicket/extras buttons, strike rotation, bowler restrictions, and dynamic leaderboards
-🎲 Auction Mode – Timed player auctions with bidding logic, team building, and auction summaries
+> 🏏 Match Management – Create matches with team names, players, overs, toss, and openers  
+> 📊 Live Scoring & Stats – Real‑time run/wicket/extras buttons, strike rotation, bowler restrictions, and dynamic leaderboards  
+> 🎲 Auction Mode – Timed player auctions with bidding logic, team building, and auction summaries  
 
 ### [OutageLink: Outage & Resource Manager (C++, Qt)](https://github.com/Hasan-Butt/OutageLink-App)
 > 🗺️ Local outage reporting & resource coordination  
