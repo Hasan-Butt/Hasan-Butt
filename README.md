@@ -76,7 +76,7 @@
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&style=for-the-badge" />
 </p>
 
-| Programming | Frameworks & Libraries | Tools & Platforms | Concepts | Soft Skills |
+| Programming | Frameworks & Libraries | Tools & Platforms | Core Concepts | Soft Skills |
 |-------------|-----------------------|-------------------|----------|------------|
 | C++, C      | Qt (GUI, Widgets), SFML, STL | Git, GitHub, VS Code, Qt Creator, Windows | OOP, Data Structures, Algorithms, UI/UX, Event-Driven Programming | Leadership, Teamwork, Problem Solving, Communication |
 
